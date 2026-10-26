@@ -1,0 +1,20 @@
+name: school_bell
+description: تطبيق جرس مدرسي ذكي لإدارة الحصص والتنبيهات الصوتية.
+publish_to: 'none'
+version: 2.0.0+2
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

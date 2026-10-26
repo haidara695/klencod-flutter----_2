@@ -1,0 +1,13 @@
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#101526</item>
+        <item name="android:statusBarColor">#101526</item>
+        <item name="android:navigationBarColor">#101526</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#101526</item>
+        <item name="android:colorAccent">#FFC857</item>
+        <item name="android:statusBarColor">#101526</item>
+        <item name="android:navigationBarColor">#101526</item>
+    </style>
+</resources>
